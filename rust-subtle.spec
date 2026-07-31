@@ -5,8 +5,8 @@
 %global crate subtle
 
 Name:           rust-%{crate}
-Version:        2.2.2
-Release:        2%{?dist}
+Version:        2.6.1
+Release:        1%{?dist}
 Summary:        Pure-Rust traits and utilities for constant-time cryptographic implementations
 
 # Upstream license specification: BSD-3-Clause
